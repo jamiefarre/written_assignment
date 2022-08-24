@@ -2,7 +2,7 @@
 Calculates difference between dates and adds/subtracts dates
 '''
 
-from datetime import datetime, timedelta
+from datetime import timedelta
 
 # calculates the difference between two dates in days
 
